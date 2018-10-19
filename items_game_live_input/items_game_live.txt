@@ -1,0 +1,21 @@
+// A example file of items_game_live.txt 
+"items_game_live"
+{
+	"prefabs"
+	{
+		"weapon_deagle_prefab"
+		{
+			"attributes"
+			{
+				"primary clip size"		"15"
+				"max player speed"		"250"
+				"damage"		"63"
+				"primary reserve ammo max"		"35"
+			}
+			"visuals"
+			{
+				"primary_ammo"		"BULLET_PLAYER_50AE"
+			}
+		}
+	}
+}
